@@ -1,0 +1,2 @@
+# Common Concepts
+This chapter went over basics of the language and didn't need much covering. Went ahead and created some examples of functions, as well as control flows such as if/else statements and loops/for loops.
