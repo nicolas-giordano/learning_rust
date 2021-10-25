@@ -8,7 +8,7 @@ fn main() {
     println!("{} and {}",s, s2);
 
     goodByeString(s2);
-    println!("{}", s2); // value has moved; value no longer exists in s2 and will give compile error.
+    // println!("{}", s2);  value has moved; value no longer exists in s2 and will give compile error.
 
 
 }
